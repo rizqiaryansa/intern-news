@@ -19,7 +19,7 @@ import retrofit2.Response
 
 class MainActivity : AppCompatActivity() {
 
-    val api_key = "f151d2185bff42d3a8250950cb72aa1c"
+    val api_key = "ISI API KEY"
     private val serviceNews = ApiClient.getClient()?.create(ApiInterface::class.java)
 
     private lateinit var recylerViewHeadline: RecyclerView
