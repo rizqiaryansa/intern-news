@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NEWS</string>
+    <string name="example_title_headline">The high-stakes battle for the Pentagon\'s winner-take-all cloud contract</string>
+    <string name="todo">TODO</string>
+    <string name="example_author_headline">Mashable</string>
+    <string name="recent_news">Recent News</string>
+</resources>
